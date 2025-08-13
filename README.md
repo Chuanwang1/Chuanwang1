@@ -1,7 +1,7 @@
 # 👋 欢迎来到我的GitHub主页
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=你好！我是川王&fontSize=40&fontAlignY=35&desc=Java后端开发%20%7C%20AI工程师%20%7C%20开源贡献者&descAlignY=55&descAlign=50&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=你好！我是magicLc&fontSize=40&fontAlignY=35&desc=Java后端开发%20%7C%20AI工程师%20%7C%20开源贡献者&descAlignY=55&descAlign=50&fontColor=ffffff" />
 </div>
 
 <div align="center">
