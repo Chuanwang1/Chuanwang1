@@ -5,14 +5,15 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60" alt="Docker Logo" /> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60" alt="GitHub Logo" />  
 
----
+<!-- 自定义横幅 -->
+![banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=欢迎来到我的GitHub主页！&fontSize=40&fontAlignY=35&desc=Java后端 | 大模型微调 | 模型训练 | 开源贡献&descAlignY=55&descAlign=50)
 
-## 👨‍💻 关于我
+# 🌟 关于我
 
-- 🔧 **Java 后端开发** —— 负责高性能服务端架构与功能实现  
-- 🧠 **大模型微调** —— 针对不同业务场景进行定制化优化  
-- 📈 **模型训练** —— 从数据处理到训练部署全流程  
-- 🌍 **开源社区贡献** —— 积极参与并推动开源项目发展  
+- 🔧 **Java 后端开发** —— 高性能服务端架构与功能实现  
+- 🧠 **大模型微调** —— 针对不同业务场景定制优化  
+- 📈 **模型训练** —— 从数据预处理到训练部署全流程  
+- 🌍 **开源社区贡献** —— 推动开源生态发展  
 
 ---
 
@@ -25,17 +26,25 @@
 
 ---
 
+## 📊 GitHub 活跃度
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Chuanwang1&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chuanwang1&layout=compact&theme=radical)  
+
+---
+
+## 🐍 动态贡献图
+
+![snake gif](https://github.com/Chuanwang1/Chuanwang1/blob/output/github-contribution-grid-snake.svg)
+
+---
+
 ## 📬 联系方式
 
 📧 **Email**: `your.email@example.com`  
 
 ---
 
-## 📊 GitHub 活跃度
+<!-- 页脚横幅 -->
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&text=Keep%20Coding%20&%20Stay%20Curious!&fontSize=30&fontAlignY=30)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Chuanwang1&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=你的GitHub用户名&layout=compact&theme=radical)  
-Chuanwang1
----
-
-> 💡 保持好奇，持续学习，用代码改变世界。
