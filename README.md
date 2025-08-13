@@ -1,10 +1,3 @@
-# 🌟 欢迎来到我的 GitHub 主页
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" alt="Java Logo" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" alt="Python Logo" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60" alt="Docker Logo" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60" alt="GitHub Logo" />  
-
 <!-- 自定义横幅 -->
 ![banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=欢迎来到我的GitHub主页！&fontSize=40&fontAlignY=35&desc=Java后端 | 大模型微调 | 模型训练 | 开源贡献&descAlignY=55&descAlign=50)
 
@@ -47,4 +40,3 @@
 
 <!-- 页脚横幅 -->
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&text=Keep%20Coding%20&%20Stay%20Curious!&fontSize=30&fontAlignY=30)
-
