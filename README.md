@@ -33,9 +33,9 @@
 
 ## 📊 GitHub 活跃度
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=你的GitHub用户名&show_icons=true&theme=radical)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Chuanwang1&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=你的GitHub用户名&layout=compact&theme=radical)  
-
+Chuanwang1
 ---
 
 > 💡 保持好奇，持续学习，用代码改变世界。
